@@ -20,7 +20,7 @@ Assignment evaluation (3 key points):
 ## Work Breakdown Structure
 
 ```mermaid
-graph TD
+graph LR
 
 root[My Degree in Computer Science]
 
@@ -49,32 +49,94 @@ end
 y2_[Year 2]
 
 cs2ao17[Algorithms and Operating Systems]
+cs2ac17[Computer Architecture and Networking]
+cs2co16[Compilers]
 cs2di17[Databases and Information Security]
 cs2ja16[Java]
+cs2ss20[Software System Design with UML]
+cs2nn16[Neural Networks]
+cs2sq17[Software Quality and Testing]
 cs2iy16[Industrial Year]
 
 subgraph Year 2
 y2_ --> cs2ao17
-y2_ --> cs2iy16
-y2_ --> cs2ja16
+y2_ --> cs2ac17
+y2_ --> cs2co16
 y2_ --> cs2di17
+y2_ --> cs2ja16
+y2_ --> cs2ss20
+y2_ --> cs2nn16
+y2_ --> cs2sq17
+y2_ --> cs2iy16
 end
 
-cs1fc16 --> cs2ao17
-cs1pc20 --> cs2ao17
+
+y3_[Year 3]
+
+cs3ip16[Individual Project]
+cs3sc17[Social, Legal and Ethical Aspects of Computing]
+cs3ai18[Artificial Intelligence]
+cs3vr16[Virtual Reality]
+cs3cn16[Computer Networking]
+cs3ia16[Image Analysis]
+cs3dm16[Data Mining]
+cs3is16[Information Security]
+
+subgraph Year 3
+y3_ --> cs3ip16
+y3_ --> cs3sc17
+y3_ --> cs3ai18
+y3_ --> cs3vr16
+y3_ --> cs3cn16
+y3_ --> cs3ia16
+y3_ --> cs3dm16
+y3_ --> cs3is16
+end
 ```
 
 ## Gantt for My Studies
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
-title Test Gantt
+title My Degree
 
 section Year 1
 CS1SE20            :active,    des1, 2020-09-28,2021-09-28
 CS1SE20 2            :done,    des1, 2021-02-28,2021-09-28
 ```
 
-## CV
+## Reflection
 
+## CV
+### Joshua Helman
+#### Education
+**Garth Hill College - Sixth Form**, 2018-2020
+* A-Level Mathematics - B
+* A-Level Computer Science - A
+* Level 3 BTEC Engineering - D*
+
+**University of Reading**, 2020-2024
+* Studing a degree in Computer Science
+
+#### Work/Experience
+**Ascot Heath Infant School**, 2017-2017, Work Experience
+* Worked with children aged 4-6
+* I helped the children with their tasks set by the teaching staff, and helped the staff with their lessons
+* This was my first taste of the working world and I discovered that my aspiration is to become a teacher. From working here, I was able to build upon my leadership and teamworking skills. I learnt how to take my roll of authority responsibly, and made sure that the children were safe, and that the teachers has everything they needed to complete their lessons and activities so they went smoothly for the children.
+
+**St. Joseph’s Catholic Primary School**, 2018-2019, Work Experience
+* Worked with children aged 4-11
+* My tasks were to help the teachers with anything they needed, such as making lesson preperations and helping the children with their work. 
+* My work experience took place on one day a week from winter 2018 to summer 2019. I was given the opportunity to work with a the reception class during the first few weeks, where I helped the teachers keep the children safe during their breaks, and helped them deliver Maths and English lessons in which the topics of shapes and phonics were taught respectivly.
+* I also helped out in the year 6 class where I was given the opportunity to deliver one of their Science lessons, and teach them about electricity through several activities where the teacher supervised me and made sure I delivered the lesson correctly.
+* During my time here, I developed my time-managment skills and communication through my work delivering lessons and making sure I covered what need to be.
+
+**Garth Hill College**, 2019-2019, Work Experience
+* I worked with children ages 11-15
+* I observed lessons from teachers in the Maths and Computer Science department and helped the students during their lesson, asnwering questions and helping them to userstand the material
+* I has the opportinity to teach a GCSE Computer Science lesson to a class of Year 9 students.
+* This was my favourite experience in the working world. I developed my communication skills through teaching lessons and helping students understand their work. This was a valuable experience in my life as it gave me lots of experience working with a range of people all with similar interests as myself. 
+
+**Doors and Fittings LTD**, 2018-present, working
+* My duties are to assist the director of the company with their tasks which usually include writing emails, improving their website by adding new products to it
 ## Reflection
