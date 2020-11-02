@@ -174,7 +174,7 @@ I achieved the following in my A-Levels:
 **Doors and Fittings LTD**, 2018-present, Working in Technical Support
 
 *Doors and Fittings LTD, Bracknell*
-* My duties are to assist the director of the company with their tasks which usually include writing emails to customers and the website developers, improving their website by adding new product and fixing errors on item listings using the development companies tools, gathering information on new prducts, and phone conversations with developers to establish good communication with them.
+* My duties are to assist the director of the company with their tasks which usually include writing emails to customers and the website developers at Etail Systems, improving the website by adding new product and fixing errors on existing item listings using the development companies tools, gathering information on new prducts, and phone conversations with developers to establish good communication with them.
 * This job has been invaluable to me in improving my worth ethic, time managment, communication and research skills. Through this job, I have significantly improved my writing skills too, as it is imperative I communicate my views on matters relating to the website accuratly and so that there is no confusion, and hence, work is completed on time and correctly. Otherwise, it is my fault if something goes wrong, so I need to be responsible and clear. I like learning how websites are made and developing my understanding of the Internet.
 
 ## Reflection
