@@ -178,3 +178,7 @@ I achieved the following in my A-Levels:
 * This job has been invaluable to me in improving my worth ethic, time managment, communication and research skills. Through this job, I have significantly improved my writing skills too, as it is imperative I communicate my views on matters relating to the website accuratly and so that there is no confusion, and hence, work is completed on time and correctly. Otherwise, it is my fault if something goes wrong, so I need to be responsible and clear. I like learning how websites are made and developing my understanding of the Internet.
 
 ## Reflection
+I have chosen to use markdown syntax to produce my Work Breakdown Structure and Gantt graph for many reasons instead of using other applications like Microsoft Visio:
+* It has easy to follow syntax and understand
+* I can zoom into the graphs as much as I want. This allows we to use as much detail and have as many boxes as I need and not have to worry about making to readable by making the font size larger or having to create a very long and complex flowchart.
+* Markdown will do the formatting for me, which allows me to focus on the content in the charts, rather than the charts themselves and making them presentable
