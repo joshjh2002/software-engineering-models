@@ -24,10 +24,9 @@ graph LR
 
 root[My Degree in Computer Science]
 
-
-root --> y1_
-root --> y2_
 root --> y3_
+y3_ --> y2_
+y2_ --> y1_
 
 y1_[Year 1]
 cs1ac16[Applications of Computer Science]
@@ -101,14 +100,27 @@ dateFormat  YYYY-MM-DD
 title My Degree
 
 section Year 1
-CS1SE20            :active,    des1, 2020-09-28,2021-09-28
-CS1SE20 2            :done,    des1, 2021-02-28,2021-09-28
+CS1FC16 :active,    des1, 2020-09-28,2021-09-28
+CS1SC16 :active,    des1, 2020-09-28,2021-09-28
+CS1MA20 :active,    des1, 2020-09-28,2021-09-28
+CS1PC20 :active,    des1, 2020-09-28,2021-09-28
+CS1SE20 :active,    des1, 2020-09-28,2021-09-28
+ST1PS   :active,    des1, 2020-09-28,2021-09-28
 ```
-
-## Reflection
 
 ## CV
 ### Joshua Helman
+
+#### About Me
+I am a hard-working individual. I am a very resilient, calm and understanding person, wanting to explore my opportinities in the world of work. I have experience with children and adults alike, which allows me to communicate well with all age groups.
+
+#### Skills
+* Excellent patience
+* Dependable
+* Great time management
+* Communication
+* Taking responsibility
+
 #### Education
 **Garth Hill College - Sixth Form**, 2018-2020
 * A-Level Mathematics - B
@@ -116,27 +128,29 @@ CS1SE20 2            :done,    des1, 2021-02-28,2021-09-28
 * Level 3 BTEC Engineering - D*
 
 **University of Reading**, 2020-2024
-* Studing a degree in Computer Science
+* I am currently studying for a degree in Computer Science
 
 #### Work/Experience
-**Ascot Heath Infant School**, 2017-2017, Work Experience
+**Ascot Heath Infant School**, 2017-2017, Work Experience as a teaching assistant
 * Worked with children aged 4-6
 * I helped the children with their tasks set by the teaching staff, and helped the staff with their lessons
-* This was my first taste of the working world and I discovered that my aspiration is to become a teacher. From working here, I was able to build upon my leadership and teamworking skills. I learnt how to take my roll of authority responsibly, and made sure that the children were safe, and that the teachers has everything they needed to complete their lessons and activities so they went smoothly for the children.
+* This was my first taste of the working world and I discovered that my aspiration is to become a teacher. From working here, I was able to build upon my leadership and teamworking skills. I learnt how to take my roll of authority responsibly, and made sure that the children were safe, and that the teachers have everything they needed to complete their lessons and activities, so they went smoothly for the children.
 
-**St. Joseph’s Catholic Primary School**, 2018-2019, Work Experience
+**St. Joseph’s Catholic Primary School**, 2018-2019, Work Experience as a teaching assistant
 * Worked with children aged 4-11
 * My tasks were to help the teachers with anything they needed, such as making lesson preperations and helping the children with their work. 
 * My work experience took place on one day a week from winter 2018 to summer 2019. I was given the opportunity to work with a the reception class during the first few weeks, where I helped the teachers keep the children safe during their breaks, and helped them deliver Maths and English lessons in which the topics of shapes and phonics were taught respectivly.
-* I also helped out in the year 6 class where I was given the opportunity to deliver one of their Science lessons, and teach them about electricity through several activities where the teacher supervised me and made sure I delivered the lesson correctly.
+* I also helped in the year 6 class where I was given the opportunity to deliver one of their Science lessons and teach them about electricity through several activities where the teacher supervised me and made sure I delivered the lesson correctly.
 * During my time here, I developed my time-managment skills and communication through my work delivering lessons and making sure I covered what need to be.
 
-**Garth Hill College**, 2019-2019, Work Experience
+**Garth Hill College**, 2019-2019, Work Experience as a teaching assistant
 * I worked with children ages 11-15
 * I observed lessons from teachers in the Maths and Computer Science department and helped the students during their lesson, asnwering questions and helping them to userstand the material
-* I has the opportinity to teach a GCSE Computer Science lesson to a class of Year 9 students.
+* I had the opportinity to teach a GCSE Computer Science lesson to a class of Year 9 students.
 * This was my favourite experience in the working world. I developed my communication skills through teaching lessons and helping students understand their work. This was a valuable experience in my life as it gave me lots of experience working with a range of people all with similar interests as myself. 
 
-**Doors and Fittings LTD**, 2018-present, working
-* My duties are to assist the director of the company with their tasks which usually include writing emails, improving their website by adding new products to it
+**Doors and Fittings LTD**, 2018-present, Working in Technical Support
+* My duties are to assist the director of the company with their tasks which usually include writing emails to customers and the website developers, improving their website by adding new product and fixing errors on item listings using the development companies tools, gathering information on new prducts, and phone conversations with developers to establish good communication with them.
+* This job has been invaluable to me in improving my worth ethic, time managment, communication and research skills. Through this job, I have significantly improved my writing skills too, as it is imperative I communicate my views on matters relating to the website accuratly and so that there is no confusion, and hence, work is completed on time and correctly. Otherwise, it is my fault if something goes wrong, so I need to be responsible and clear.
+
 ## Reflection
