@@ -11,7 +11,7 @@ Actual hrs spent for the assignment:
 
 Assignment evaluation (3 key points): 
 
-# Abstract
+## Abstract
 
 ## Introduction
 
@@ -20,28 +20,48 @@ Assignment evaluation (3 key points):
 ## Work Breakdown Structure
 
 ```mermaid
-graph BT
+graph TD
 
-id1[No. 1]
-id2{No. 2}
-id3[No. 3]
-id4[No. 4]
+root[My Degree in Computer Science]
 
-id1 --> id4
-id4 --> id2
-id2 -- Yes --> id1
-id2 -- No --> id3
-id4 --> id3
+
+root --> y1_
+root --> y2_
+root --> y3_
+
+y1_[Year 1]
+cs1ac16[Applications of Computer Science]
+cs1fc16[Fundamentals of Computer Science]
+cs1ma20[Mathematics and Computation]
+cs1pc20[Programming in C/C++]
+cs1se20[Software Engineering CS1SE20]
+st1ps[Probability and Statistics]
 
 subgraph Year 1
-se1[Software Engineering]
+y1_ --> cs1ac16
+y1_ --> cs1fc16
+y1_ --> cs1ma20
+y1_ --> cs1pc20
+y1_ --> cs1se20
+y1_ --> st1ps
 end
+
+y2_[Year 2]
+
+cs2ao17[Algorithms and Operating Systems]
+cs2di17[Databases and Information Security]
+cs2ja16[Java]
+cs2iy16[Industrial Year]
 
 subgraph Year 2
-se2[Software Engineering]
+y2_ --> cs2ao17
+y2_ --> cs2iy16
+y2_ --> cs2ja16
+y2_ --> cs2di17
 end
 
-se1 --> se2
+cs1fc16 --> cs2ao17
+cs1pc20 --> cs2ao17
 ```
 
 ## Gantt for My Studies
