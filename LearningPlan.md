@@ -99,12 +99,86 @@ dateFormat  YYYY-MM-DD
 title My Degree
 
 section Year 1
-CS1FC16 :active,    des1, 2020-09-28,2021-09-28
-CS1SC16 :active,    des1, 2020-09-28,2021-09-28
-CS1MA20 :active,    des1, 2020-09-28,2021-09-28
-CS1PC20 :active,    des1, 2020-09-28,2021-09-28
-CS1SE20 :active,    des1, 2020-09-28,2021-09-28
-ST1PS   :active,    des1, 2020-09-28,2021-09-28
+CS1FC16 Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+CS1FC16 Study :active,    des1, 2020-09-28,2021-03-26
+
+CS1FC16 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
+
+CS1FC16 Lectures and Exam:active,    des1, 2021-04-19,2021-06-14
+
+
+CS1AC16 Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+CS1AC16 Study :active,    des1, 2020-09-28,2021-03-26
+
+CS1AC16 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
+
+CS1AC16 Lectures and Exam:active,    des1, 2021-04-19,2021-06-14
+
+
+
+CS1MA20 Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+CS1MA20 Study :active,    des1, 2020-09-28,2021-03-26
+
+CS1MA20 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
+
+CS1MA20 Study amd Exam :active,    des1, 2021-04-19,2021-06-14
+
+
+CS1PC20 Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+CS1PC20 Study :active,    des1, 2020-09-28,2021-03-26
+
+CS1PC20 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
+
+CS1PC20 Lectures Study and Exam :active,    des1, 2021-04-19,2021-06-14
+
+
+
+CS1SE20 Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+CS1SE20 Autmn Study :active,    des1, 2020-09-28,2021-03-26
+
+CS1SE20 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
+
+CS1SE20 Summer Study and Exams :active,    des1, 2021-04-19,2021-06-14
+
+
+ST1PS Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+ST1PS Study :active,    des1, 2020-09-28,2021-03-26
+
+ST1PS Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
+
+ST1PS Lectures and Exams :active,    des1, 2021-04-19,2021-06-14
+
+
+section Year 2
+CS2AO17 Autmn Lectures :active, dest1, 2021-09-27,2021-12-10
+CS2AO17 Autmn Study :active, dest1, 2021-09-27,2022-03-25
+CS2AO17 Spring Lectures and Practicals :active, dest1, 2022-01-10,2022-03-25
+CS2AO17 Summer Tutorials and Exam :active, dest1, 2022-04-17,2022-06-09
+
+CS2CA17 Autmn Lectures :active, dest1, 2021-09-27,2021-12-10
+CS2CA17 Study :active, dest1, 2021-09-27,2022-03-25
+CS2CA17 Spring Lectures and Practicals :active, dest1, 2022-01-10,2022-03-25
+CS2CA17 Summer Tutorials and Exam :active, dest1, 2022-04-17,2022-06-09
+
+CS2CO17 Spring Lectures, Practicals and Study :active, dest1, 2022-01-10,2022-03-25
+CS2CO17 Exam :active, dest1, 2022-04-17,2022-06-09
+ 
+CS2DI17 Autmn Lectures :active, dest1, 2021-09-27,2021-12-10
+CS2DI17 Spring Lectures :active, dest1, 2022-01-10,2022-03-25
+CS2DI17 Study :active, dest1, 2021-09-27,2022-03-25
+CS2DI17 Exam and Lecture :active, dest1, 2022-04-17,2022-06-09
+
+CS2JA16 Autmn Lectures and Practical  :active, dest1, 2021-09-27,2021-12-10
+CS2JA16 Spring Practicals :active, dest1, 2022-01-10,2022-03-25
+CS2JA16 Study :active, dest1, 2021-09-27,2022-03-25
+ 
+CS2SD17 Autmn Lectures, Practical and Study  :active, dest1, 2021-09-27,2021-12-10
+
+CS2SQ17 Autmn Lectures and Practicals  :active, dest1, 2021-09-27,2021-12-10
+CS2SQ17 Exam :active, dest1, 2022-04-17,2022-06-09
+
+CS2NN16 Autmn Lectures and Practicals  :active, dest1, 2021-09-27,2021-12-10
+CS2NN16 Study :active, dest1, 2021-09-27,2022-03-25
 ```
 
 ## CV
