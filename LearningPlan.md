@@ -126,15 +126,14 @@ dateFormat  YYYY-MM-DD
 title My Degree
 
 section Year 1
-CS1FC16 Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+CS1FC16 Autumn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
 CS1FC16 Study :active,    des1, 2020-09-28,2021-03-26
 
 CS1FC16 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
 
 CS1FC16 Lectures and Exam:active,    des1, 2021-04-19,2021-06-14
 
-
-CS1AC16 Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+CS1AC16 Autumn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
 CS1AC16 Study :active,    des1, 2020-09-28,2021-03-26
 
 CS1AC16 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
@@ -142,16 +141,14 @@ CS1AC16 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
 CS1AC16 Lectures and Exam:active,    des1, 2021-04-19,2021-06-14
 
 
-
-CS1MA20 Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+CS1MA20 Autumn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
 CS1MA20 Study :active,    des1, 2020-09-28,2021-03-26
 
 CS1MA20 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
 
 CS1MA20 Study amd Exam :active,    des1, 2021-04-19,2021-06-14
 
-
-CS1PC20 Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+CS1PC20 Autumn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
 CS1PC20 Study :active,    des1, 2020-09-28,2021-03-26
 
 CS1PC20 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
@@ -159,30 +156,27 @@ CS1PC20 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
 CS1PC20 Lectures Study and Exam :active,    des1, 2021-04-19,2021-06-14
 
 
-
-CS1SE20 Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
-CS1SE20 Autmn Study :active,    des1, 2020-09-28,2021-03-26
+CS1SE20 Autumn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+CS1SE20 Autumn Study :active,    des1, 2020-09-28,2021-03-26
 
 CS1SE20 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
 
 CS1SE20 Summer Study and Exams :active,    des1, 2021-04-19,2021-06-14
 
-
-ST1PS Autmn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
+ST1PS Autumn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
 ST1PS Study :active,    des1, 2020-09-28,2021-03-26
 
 ST1PS Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
 
 ST1PS Lectures and Exams :active,    des1, 2021-04-19,2021-06-14
 
-
 section Year 2
-CS2AO17 Autmn Lectures :active, dest1, 2021-09-27,2021-12-10
-CS2AO17 Autmn Study :active, dest1, 2021-09-27,2022-03-25
+CS2AO17 Autumn Lectures :active, dest1, 2021-09-27,2021-12-10
+CS2AO17 Autumn Study :active, dest1, 2021-09-27,2022-03-25
 CS2AO17 Spring Lectures and Practicals :active, dest1, 2022-01-10,2022-03-25
 CS2AO17 Summer Tutorials and Exam :active, dest1, 2022-04-17,2022-06-09
 
-CS2CA17 Autmn Lectures :active, dest1, 2021-09-27,2021-12-10
+CS2CA17 Autumn Lectures :active, dest1, 2021-09-27,2021-12-10
 CS2CA17 Study :active, dest1, 2021-09-27,2022-03-25
 CS2CA17 Spring Lectures and Practicals :active, dest1, 2022-01-10,2022-03-25
 CS2CA17 Summer Tutorials and Exam :active, dest1, 2022-04-17,2022-06-09
@@ -190,21 +184,21 @@ CS2CA17 Summer Tutorials and Exam :active, dest1, 2022-04-17,2022-06-09
 CS2CO17 Spring Lectures, Practicals and Study :active, dest1, 2022-01-10,2022-03-25
 CS2CO17 Exam :active, dest1, 2022-04-17,2022-06-09
  
-CS2DI17 Autmn Lectures :active, dest1, 2021-09-27,2021-12-10
+CS2DI17 Autumn Lectures :active, dest1, 2021-09-27,2021-12-10
 CS2DI17 Spring Lectures :active, dest1, 2022-01-10,2022-03-25
 CS2DI17 Study :active, dest1, 2021-09-27,2022-03-25
 CS2DI17 Exam and Lecture :active, dest1, 2022-04-17,2022-06-09
 
-CS2JA16 Autmn Lectures and Practical  :active, dest1, 2021-09-27,2021-12-10
+CS2JA16 Autumn Lectures and Practical  :active, dest1, 2021-09-27,2021-12-10
 CS2JA16 Spring Practicals :active, dest1, 2022-01-10,2022-03-25
 CS2JA16 Study :active, dest1, 2021-09-27,2022-03-25
  
-CS2SD17 Autmn Lectures, Practical and Study  :active, dest1, 2021-09-27,2021-12-10
+CS2SD17 Autumn Lectures, Practical and Study  :active, dest1, 2021-09-27,2021-12-10
 
-CS2SQ17 Autmn Lectures and Practicals  :active, dest1, 2021-09-27,2021-12-10
+CS2SQ17 Autumn Lectures and Practicals  :active, dest1, 2021-09-27,2021-12-10
 CS2SQ17 Exam :active, dest1, 2022-04-17,2022-06-09
 
-CS2NN16 Autmn Lectures and Practicals  :active, dest1, 2021-09-27,2021-12-10
+CS2NN16 Autumn Lectures and Practicals  :active, dest1, 2021-09-27,2021-12-10
 CS2NN16 Study :active, dest1, 2021-09-27,2022-03-25
 
 section Industrial Year
@@ -213,7 +207,7 @@ Work Placement :active, dest1, 2022-09-26,2023-06-09
 section Year 3
 CS3IP16 Tutorial and Study :active, dest1, 2023-09-25,2024-03-08
 
-CS3SC17 Autmn Lectures, Tutorial and Study :active, dest1, 2023-09-25,2023-12-08
+CS3SC17 Autumn Lectures, Tutorial and Study :active, dest1, 2023-09-25,2023-12-08
 
 CS3AI18 Spring Lectuers, Tutorial and Study :active, dest1, 2024-01-09,2024-03-08
 CS3AI18 Exam :active, dest1, 2024-04-16,2024-06-08
@@ -221,11 +215,11 @@ CS3AI18 Exam :active, dest1, 2024-04-16,2024-06-08
 CS3VR16 Spring Lectuers, Tutorial and Study :active, dest1, 2024-01-09,2024-03-08
 CS3VR16 Exam :active, dest1, 2024-04-16,2024-06-08
 
-CS3CN16 Autmn Lectures :active, dest1, 2023-09-25,2023-12-08
+CS3CN16 Autumn Lectures :active, dest1, 2023-09-25,2023-12-08
 CS3AI18 Study :active, dest1, 2023-09-25,2024-03-08
 CS3CN16 Summer Tutorial and Exam :active, dest1, 2024-04-16,2024-06-08
 
-CS3IA16 Autmn Lectures, Tutorial and Study :active, dest1, 2023-09-25,2023-12-08
+CS3IA16 Autumn Lectures, Tutorial and Study :active, dest1, 2023-09-25,2023-12-08
 CS3IA16 Summer Tutorial and Exam :active, dest1, 2024-04-16,2024-06-08
 
 CS3DM16 Spring Lectuers, Tutorial and Study :active, dest1, 2024-01-09,2024-03-08
@@ -239,7 +233,7 @@ CS3IS16 Summer Exam :active, dest1, 2024-04-16,2024-06-08
 ### Joshua Helman
 
 #### About Me
-I am a hard-working individual. I am a very resilient, calm and understanding person, wanting to explore my opportinities in the world of work. I have experience with children and adults alike, which allows me to communicate well with all age groups.
+I am a hard-working individual. I am a very resilient, calm, and understanding person, wanting to explore my opportinities in the world of work. I have experience with children and adults alike, which allows me to communicate well with all age groups.
 
 #### Skills
 * Excellent patience
@@ -313,24 +307,12 @@ I have chosen to use markdown syntax to produce my Work Breakdown Structure and 
 
 I can respect that others may not have chosen this path because they like to be able to visualise what they are doing, instead of using syntax to produce a diagram. Misrosoft Visio is a great example of such tools, capable of producing flowcharts and other diagrams. 
 
-In your reflection, you could write about:
+When completing my graphs, I thougn they went very well, however it took me a while to figure out how I was going to arrange them to make it readable and easy to follow. This was due to the nature of the graphs, rather than the tools used to create it. I was eventually able to figure out a good way in which to present my work and keep it easy to follow and readable. I did enjoy working on the graphs though, and it was a fun and new experience to work with the markdown syntax. I used [this](https://mermaid-js.github.io/mermaid/#/) webpage to learn how to use the mermaid syntax, which I referred to quite frequently to debug my graphs whenever they did not compile. I used examples of WBS diagrams on the lesson material and notes to get inspiration for my diagrams and adapt them to the context of my work. Overall, I think my diagrams went very well, although it was a slow process to begin with. If I were to do this again, I would use more examples in order to get my work done and try to spend less time thinking about how to lay out the graph and focus more on the content as I went through seveal drafts before settling on the one you see [above](#work-breakdown-structure).
 
-what you did and why you did it,
-what was good and bad about it,
-why you found it good or bad,
-what you found easy or difficult,
-why you found it easy or difficult,
-what you liked about what you did,
-why you felt like that,
-how you might want to follow it up,
-what other people did and why they did it,
-how did you feel about what others did,
-how you used what you have been taught in class,
-what other information do you need,
-what you are going to do differently in this type of situation next time,
-what steps you are going to take on the basis of what you have learned,
-what you are going to do next.
+Regarding my (CV)[#cv], I found this quite difficult to compose, especially when it came to my experiences in the world of work. I think it went well, despite it taking a long time. Much like with my graphs, I referred to a lot of examples on I found either via the Internet, or ones my friends have sent me to review for them before sending them to apply for a job. This was very helpful, and I used what they did and applied to to me. Next time, I will be able to use this as my basis and build off it, adding my achievements as I go. That being said, I did struggle with writing about my achievements, this is most likely due to the fact that I haven't written a CV is several years and forgotten how to format them and what to include, but the examples were a great source to help me understand.
 
-When completing my graphs, I thougn they went very well, however it took me a while to figure out how I was going to arrange them to make it readable and easy to follow. This was due to the nature of the graphs, rather than the tools used to create it. I was eventually able to figure out a good way in which to present my work and keep it easy to follow and readable. I did enjoy working on the graphs though, and it was a fun and new experience to work with the markdown syntax. I used examples of WBS diagrams on the lesson material and notes to get inspiration for my diagrams and adapt them to the context of my work. Overall, I think my diagrams went very well, although it was a slow process to begin with. If I were to do this again, I would use more examples in order to get my work done and try to spend less time thinking about how to lay out the graph and focus more on the content as I went through seveal drafts before settling on the one you see [above](#work-breakdown-structure).
+Overall, I would say that me report went well, however, I think it could have gone smoother if I did additional planning before I started my report. I was too eegar to start and did not do much planning, which I think, untimatly ended uo in my struggling. Next time, I will take my time to plan what it is I am going to say and how. This will allow me to work more efficiently and produce better quality work which flows much nicer. An aspect that I think went well was my ability to grasp the markdown mermaid syntax to produce my flowchart and gantt chart. I found it very easy to follow and was very excited to try to impliment it into my work. 
 
-In regards to my (CV)[#cv], I found this quite difficult to compose, especially when it came to my experiences in the world of work. I think it went well, despite it taking a long time. 
+In conclusion, there are a few of things I need to improve on that I discovered while doing this project, but now I can work on them in the next project I am assigned. These include:
+* Planning to improve workflow
+* Researching examples and content to improve workflow
