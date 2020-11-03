@@ -12,12 +12,37 @@ Actual hrs spent for the assignment:
 Assignment evaluation (3 key points): 
 
 ## Abstract
+In this essay, I talk about my degree and how I aim to achieve it by breaking it down and showing the steps I must achieve in order complete it. 
+
+For research, I used the Univeristy of Reading's website to find information about my modules and the term times in order to complete a Work Breakdown Structure and a Gantt diagram which should my modules and the time I should spend on them, respectivly. 
+
+A conclusion I reached while researching and exploring the opportunities I have throught my degree was that I have a lot of opportunities available and a large amount of content to explore.
 
 ## Introduction
+In this essay, I have been researching and writing about my degree in Computer Science, including the content and the time managment skills required to sucessfully complete my degree. I will be constructing a Work Breakdown Structure to show all the aspects of my degree, and the topics and modules I would like to complete based on my personal interests and skills. I will also build a Gantt diagram to show the time I shpuld be spending on my degree and each module in turn. 
+
+I am a Computer Science student at the University of Reading, and I have a background in computing, in both and educational and work-related sense. I have completed an A-Level in Computer Science, and I work for a web-based retail company, where I oversee technical support and IT. I am excited to complete a degree in Computer Science and further understand what is, frankly, a fundemental part of everyones lives in the Information Age. I am going to break-down my degree and all the aspects within it, outlining the researching and topics I will involve myself in to better understand the topics I am intersted in.
 
 ## Background
+To complete my degree, I must complete a large amount of work to show my understanding of the topic and what I need to do to succeed. In this report, I will be outlining my degree and what I have to do in order to accomplish it, as well as provide a Gantt chart to show the time alloted to each portion of my degree. 
+
+My degree is broken down into 4 years, each of which include a range of topics for me to explore and become a part of. In each year, I must complete my modules to progress, if I fail, I must retake the exams and forfit some marks in the process. 
+
+In year 1 of my degree, I am being intorduced to the degree and being taught valuable skills I will need to succeed. I am learning the fundementals, applications, mathematics, programming, and software engineering behind computer science, as without this core knowledge, I will not be able to achieve my degree. For each module, I must complete a set of work to show I can understand and apply my knowledge to situations. 
+
+My second year will have me dive deeper into the subjects I have been studying this year and allow me to gain more knowledge which will help me with future studies. I wish to learn more about the more practical side of computer science, like programming and software, which is reflected in my choices of modules. 
+
+In the third year, I will be on a work placement, learning what it is like to work in thr world of computers with a specialist company. This will be exciting for me as I will be able to expand my knowledge of the world of work and get a better understanding of what is waiting for me when I finish me degree.
+
+Finally, in the year 4, I will complete my degree though a project and present it to my peers. I will also have a change to the topics I am interested in more in-depth and apply that to my final project. I will be learning the ethics, legal and social issues created by computers, artifical intelligence, virtual reality and its impact on society, computer networking, image analysis, data mining and information security. These topics all interest me as I am facinated with how programs can be written to make their own decisions about how to meet an objective. 
+
+The tools I will use in this project are the Univeristy of Readings website, which proivdes detailed descriptions of my degree and all the modules in it. This website will be an invaluable source as it contains all the information, I need to complete my project and the diagrams I will provide alongside it. 
+
+To produce the diagrams, I will use the markdown mermaid syntax as it is easy to follow and provides me with a lot of tools and options I can use to create the diagrams in a the way I wish. Other people may choose to use different software like Visio because it allows you to visualise the finished product while you work, but it also means you have to activley work on consistency and presentation, whereas markdown will do that for you, and make sure it fits on all monitors. 
 
 ## Work Breakdown Structure
+
+This Work Breakdown Structure shows my degree and all the modules I am taking in Year 1, and the ones I wish to take in the second and third years of my degree. It also contains a section for my work placement which I will be doing as part of my degree. In this diagram, you can see that I have broken each year down into a section, with the modules I am, or will be taking inside, with Year 1 at the bottom, and the final degree at the top. 
 
 ```mermaid
 graph LR
@@ -93,6 +118,8 @@ end
 ```
 
 ## Gantt for My Studies
+In this Gantt chart, I have listen all my modules and researched the times I will be studying them using the [Module Description](http://www.reading.ac.uk/modules/module.aspx?sacyr=1819&school=MPS) webpage and I gathered the term times to from the [Term Date](https://www.reading.ac.uk/internal/staffportal/sp-term-dates.aspx) webpage. The term dates webpage did not provide me with the 2023-2024 dates, so I made an educated guess on the term dates. I noticed that the term dates for any year starts 1 day after the previous year, so I just took the dates from 2022-2023 and subtracted 1 from the day figure in the dates listed. Each section of my graph represents a year of my degree, with 2022-2023 being my work placement year.
+
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
@@ -179,6 +206,33 @@ CS2SQ17 Exam :active, dest1, 2022-04-17,2022-06-09
 
 CS2NN16 Autmn Lectures and Practicals  :active, dest1, 2021-09-27,2021-12-10
 CS2NN16 Study :active, dest1, 2021-09-27,2022-03-25
+
+section Industrial Year
+Work Placement :active, dest1, 2022-09-26,2023-06-09
+
+section Year 3
+CS3IP16 Tutorial and Study :active, dest1, 2023-09-25,2024-03-08
+
+CS3SC17 Autmn Lectures, Tutorial and Study :active, dest1, 2023-09-25,2023-12-08
+
+CS3AI18 Spring Lectuers, Tutorial and Study :active, dest1, 2024-01-09,2024-03-08
+CS3AI18 Exam :active, dest1, 2024-04-16,2024-06-08
+
+CS3VR16 Spring Lectuers, Tutorial and Study :active, dest1, 2024-01-09,2024-03-08
+CS3VR16 Exam :active, dest1, 2024-04-16,2024-06-08
+
+CS3CN16 Autmn Lectures :active, dest1, 2023-09-25,2023-12-08
+CS3AI18 Study :active, dest1, 2023-09-25,2024-03-08
+CS3CN16 Summer Tutorial and Exam :active, dest1, 2024-04-16,2024-06-08
+
+CS3IA16 Autmn Lectures, Tutorial and Study :active, dest1, 2023-09-25,2023-12-08
+CS3IA16 Summer Tutorial and Exam :active, dest1, 2024-04-16,2024-06-08
+
+CS3DM16 Spring Lectuers, Tutorial and Study :active, dest1, 2024-01-09,2024-03-08
+CS3DM16 Summer Exam :active, dest1, 2024-04-16,2024-06-08
+
+CS3IS16 Spring Lectuers, Tutorial and Study :active, dest1, 2024-01-09,2024-03-08
+CS3IS16 Summer Exam :active, dest1, 2024-04-16,2024-06-08
 ```
 
 ## CV
@@ -254,5 +308,29 @@ I achieved the following in my A-Levels:
 ## Reflection
 I have chosen to use markdown syntax to produce my Work Breakdown Structure and Gantt graph for many reasons instead of using other applications like Microsoft Visio:
 * It has easy to follow syntax and understand
-* I can zoom into the graphs as much as I want. This allows we to use as much detail and have as many boxes as I need and not have to worry about making to readable by making the font size larger or having to create a very long and complex flowchart.
-* Markdown will do the formatting for me, which allows me to focus on the content in the charts, rather than the charts themselves and making them presentable
+* I can zoom into the graphs as much as I want. This allows we to use as much detail and have as many items in the chart as I need and not have to worry about making to readable by making the font size larger or having to create a very long and complex flowchart. 
+* Markdown will do the formatting for me, which allows me to focus on the content of the charts, rather than the charts themselves and making them presentable. This gives me more time to think about its contents and making sure I get all the information in the correct place.
+
+I can respect that others may not have chosen this path because they like to be able to visualise what they are doing, instead of using syntax to produce a diagram. Misrosoft Visio is a great example of such tools, capable of producing flowcharts and other diagrams. 
+
+In your reflection, you could write about:
+
+what you did and why you did it,
+what was good and bad about it,
+why you found it good or bad,
+what you found easy or difficult,
+why you found it easy or difficult,
+what you liked about what you did,
+why you felt like that,
+how you might want to follow it up,
+what other people did and why they did it,
+how did you feel about what others did,
+how you used what you have been taught in class,
+what other information do you need,
+what you are going to do differently in this type of situation next time,
+what steps you are going to take on the basis of what you have learned,
+what you are going to do next.
+
+When completing my graphs, I thougn they went very well, however it took me a while to figure out how I was going to arrange them to make it readable and easy to follow. This was due to the nature of the graphs, rather than the tools used to create it. I was eventually able to figure out a good way in which to present my work and keep it easy to follow and readable. I did enjoy working on the graphs though, and it was a fun and new experience to work with the markdown syntax. I used examples of WBS diagrams on the lesson material and notes to get inspiration for my diagrams and adapt them to the context of my work. Overall, I think my diagrams went very well, although it was a slow process to begin with. If I were to do this again, I would use more examples in order to get my work done and try to spend less time thinking about how to lay out the graph and focus more on the content as I went through seveal drafts before settling on the one you see [above](#work-breakdown-structure).
+
+In regards to my (CV)[#cv], I found this quite difficult to compose, especially when it came to my experiences in the world of work. I think it went well, despite it taking a long time. 
