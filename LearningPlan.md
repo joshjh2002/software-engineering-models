@@ -21,7 +21,7 @@ A conclusion I reached while researching and exploring the opportunities I have 
 ## Introduction
 In this essay, I have been researching and writing about my degree in Computer Science, including the content and the time managment skills required to sucessfully complete my degree. I will be constructing a Work Breakdown Structure to show all the aspects of my degree, and the topics and modules I would like to complete based on my personal interests and skills. I will also build a Gantt diagram to show the time I shpuld be spending on my degree and each module in turn. 
 
-I am a Computer Science student at the University of Reading, and I have a background in computing, in both and educational and work-related sense. I have completed an A-Level in Computer Science, and I work for a web-based retail company, where I oversee technical support and IT. I am excited to complete a degree in Computer Science and further understand what is, frankly, a fundemental part of everyones lives in the Information Age. I am going to break-down my degree and all the aspects within it, outlining the researching and topics I will involve myself in to better understand the topics I am intersted in.
+I am a Computer Science student at the University of Reading, and I have a background in computing, in both an educational and work-related sense. I have completed an A-Level in Computer Science, and I work for a web-based retail company, where I oversee technical support and IT. I am excited to complete a degree in Computer Science and further understand what is, frankly, a fundemental part of everyones lives in the Information Age. I am going to break-down my degree and all the aspects within it, outlining the researching and topics I will involve myself in to better understand the topics I am intersted in.
 
 ## Background
 To complete my degree, I must complete a large amount of work to show my understanding of the topic and what I need to do to succeed. In this report, I will be outlining my degree and what I have to do in order to accomplish it, as well as provide a Gantt chart to show the time alloted to each portion of my degree. 
@@ -41,7 +41,6 @@ The tools I will use in this project are the Univeristy of Readings website, whi
 To produce the diagrams, I will use the markdown mermaid syntax as it is easy to follow and provides me with a lot of tools and options I can use to create the diagrams in a the way I wish. Other people may choose to use different software like Visio because it allows you to visualise the finished product while you work, but it also means you have to activley work on consistency and presentation, whereas markdown will do that for you, and make sure it fits on all monitors. 
 
 ## Work Breakdown Structure
-
 This Work Breakdown Structure shows my degree and all the modules I am taking in Year 1, and the ones I wish to take in the second and third years of my degree. It also contains a section for my work placement which I will be doing as part of my degree. In this diagram, you can see that I have broken each year down into a section, with the modules I am, or will be taking inside, with Year 1 at the bottom, and the final degree at the top. 
 
 ```mermaid
