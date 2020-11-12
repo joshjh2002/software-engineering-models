@@ -5,11 +5,14 @@ Assignment report Title: Models Report
 
 Student Number: 29012845
 
-Date:
+Date: 12/11/2002
 
-Actual hrs spent for the assignment:
+Actual hrs spent for the assignment: 15
 
 Assignment evaluation (3 key points): 
+* I learnt how to use markdown syntax to produce various types of graphs
+* I was able to use time managment skills to set out my workload in an easy to digest fashion 
+* I experimented with different tools to produce my graphs and chose the best one for me
 
 ## Abstract
 In this essay, I talk about my degree and how I aim to achieve it by breaking it down and showing the steps I must achieve in order complete it. 
@@ -24,7 +27,7 @@ In this essay, I have been researching and writing about my degree in Computer S
 I am a Computer Science student at the University of Reading, and I have a background in computing, in both an educational and work-related sense. I have completed an A-Level in Computer Science, and I work for a web-based retail company, where I oversee technical support and IT. I am excited to complete a degree in Computer Science and further understand what is, frankly, a fundemental part of everyones lives in the Information Age. I am going to break-down my degree and all the aspects within it, outlining the researching and topics I will involve myself in to better understand the topics I am intersted in.
 
 ## Background
-To complete my degree, I must complete a large amount of work to show my understanding of the topic and what I need to do to succeed. In this report, I will be outlining my degree and what I have to do in order to accomplish it, as well as provide a Gantt chart to show the time alloted to each portion of my degree. 
+To complete my degree, I must complete a large amount of work to show my understanding of the topic and what I need to do to succeed. In this report, I will be outlining my degree and what I must do in order to accomplish it, as well as provide a Gantt chart to show the time alloted to each portion of my degree. 
 
 My degree is broken down into 4 years, each of which include a range of topics for me to explore and become a part of. In each year, I must complete my modules to progress, if I fail, I must retake the exams and forfit some marks in the process. 
 
@@ -38,7 +41,12 @@ Finally, in the year 4, I will complete my degree though a project and present i
 
 The tools I will use in this project are the Univeristy of Readings website, which proivdes detailed descriptions of my degree and all the modules in it. This website will be an invaluable source as it contains all the information, I need to complete my project and the diagrams I will provide alongside it. 
 
-To produce the diagrams, I will use the markdown mermaid syntax as it is easy to follow and provides me with a lot of tools and options I can use to create the diagrams in a the way I wish. Other people may choose to use different software like Visio because it allows you to visualise the finished product while you work, but it also means you have to activley work on consistency and presentation, whereas markdown will do that for you, and make sure it fits on all monitors. 
+I chose to use markdown syntax to produce my Work Breakdown Structure and Gantt graph for many reasons instead of using other applications like Microsoft Visio:
+* It has easy to follow syntax and understand
+* I can zoom into the graphs as much as I want. This allows we to use as much detail and have as many items in the chart as I need and not have to worry about making to readable by making the font size larger or having to create a very long and complex flowchart. 
+* Markdown will do the formatting for me, which allows me to focus on the content of the charts, rather than the charts themselves and making them presentable. This gives me more time to think about its contents and making sure I get all the information in the correct place.
+
+I understand that others may not have chosen to use markdown because they like to be able to visualise the graphs while they are doing them, instead of using syntax to produce a diagram. Misrosoft Visio is a great example of such a tool. It can help you produce flowcharts and other diagrams. I did not choose to use Visio because from previous uses of the software, I realised I tend to spend more time worrying about presentation of the charts rather than the content. Therefore, I chose markdown as it does the formatting for me, so I just needed to focus on the content.
 
 ## Work Breakdown Structure
 This Work Breakdown Structure shows my degree and all the modules I am taking in Year 1, and the ones I wish to take in the second and third years of my degree. It also contains a section for my work placement which I will be doing as part of my degree. In this diagram, you can see that I have broken each year down into a section, with the modules I am, or will be taking inside, with Year 1 at the bottom, and the final degree at the top. 
@@ -139,7 +147,6 @@ CS1AC16 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
 
 CS1AC16 Lectures and Exam:active,    des1, 2021-04-19,2021-06-14
 
-
 CS1MA20 Autumn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
 CS1MA20 Study :active,    des1, 2020-09-28,2021-03-26
 
@@ -153,7 +160,6 @@ CS1PC20 Study :active,    des1, 2020-09-28,2021-03-26
 CS1PC20 Spring Lectures and Practicals :active,    des1, 2021-01-11,2021-03-26
 
 CS1PC20 Lectures Study and Exam :active,    des1, 2021-04-19,2021-06-14
-
 
 CS1SE20 Autumn Lectures and Practicals :active,    des1, 2020-09-28,2020-12-11
 CS1SE20 Autumn Study :active,    des1, 2020-09-28,2021-03-26
@@ -299,20 +305,13 @@ I achieved the following in my A-Levels:
 * This job has been invaluable to me in improving my worth ethic, time managment, communication and research skills. Through this job, I have significantly improved my writing skills too, as it is imperative I communicate my views on matters relating to the website accuratly and so that there is no confusion, and hence, work is completed on time and correctly. Otherwise, it is my fault if something goes wrong, so I need to be responsible and clear. I like learning how websites are made and developing my understanding of the Internet.
 
 ## Reflection
-I have chosen to use markdown syntax to produce my Work Breakdown Structure and Gantt graph for many reasons instead of using other applications like Microsoft Visio:
-* It has easy to follow syntax and understand
-* I can zoom into the graphs as much as I want. This allows we to use as much detail and have as many items in the chart as I need and not have to worry about making to readable by making the font size larger or having to create a very long and complex flowchart. 
-* Markdown will do the formatting for me, which allows me to focus on the content of the charts, rather than the charts themselves and making them presentable. This gives me more time to think about its contents and making sure I get all the information in the correct place.
-
-I can respect that others may not have chosen this path because they like to be able to visualise what they are doing, instead of using syntax to produce a diagram. Misrosoft Visio is a great example of such tools, capable of producing flowcharts and other diagrams. I did not choose to use Visio as 
-
-When completing my graphs, I thougn they went very well, however it took me a while to figure out how I was going to arrange them to make it readable and easy to follow. This was due to the nature of the graphs, rather than the tools used to create it. I was eventually able to figure out a good way in which to present my work and keep it easy to follow and readable. I did enjoy working on the graphs though, and it was a fun and new experience to work with the markdown syntax. I used [this](https://mermaid-js.github.io/mermaid/#/) webpage to learn how to use the mermaid syntax, which I referred to quite frequently to debug my graphs whenever they did not compile. I used examples of WBS diagrams on the lesson material and notes to get inspiration for my diagrams and adapt them to the context of my work. Overall, I think my diagrams went very well, although it was a slow process to begin with. If I were to do this again, I would use more examples in order to get my work done and try to spend less time thinking about how to lay out the graph and focus more on the content as I went through seveal drafts before settling on the one you see [above](#work-breakdown-structure).
+I though producing my graphs went very well, however it took me a while to figure out how I was going to arrange them to make it readable and easy to follow. This was due to the nature of the graphs, rather than the tools used to create it. I was eventually able to figure out a good way in which to present my work and keep it easy to follow and readable. I did enjoy working on the graphs though, and it was a fun and new experience to work with the markdown syntax. I used [this](https://mermaid-js.github.io/mermaid/#/) webpage to learn how to use the mermaid syntax, which I referred to quite frequently to debug my graphs whenever they did not compile. I used examples of WBS diagrams on the lesson material and notes to get inspiration for my diagrams and adapt them to the context of my work. Overall, I think my diagrams went very well, although it was a slow process to begin with. If I were to do this again, I would use more examples in order to get my work done and try to spend less time thinking about how to lay out the graph and focus more on the content as I went through seveal drafts before settling on the one you see [above](#work-breakdown-structure).
 
 Regarding my [CV](#cv), I found this quite difficult to compose, especially when it came to my experiences in the world of work. I think it went well, despite it taking a long time. Much like with my graphs, I referred to a lot of examples on I found either via the Internet, or ones my friends have sent me to review for them before sending them to apply for a job. This was very helpful, and I used what they did and applied to to me. Next time, I will be able to use this as my basis and build off it, adding my achievements as I go. That being said, I did struggle with writing about my achievements, this is most likely due to the fact that I haven't written a CV is several years and forgotten how to format them and what to include, but the examples were a great source to help me understand.
 
-Writing my report in this format has helped me understand more about software engineering and open my eyes to more than just the programming side of the project. I have learnt to consider the deadlines that may be emposed on me when creating software and documentation through the Gantt diagram and adheering to the requirements of this report. It is important that you must take steps to ensure your project is completed on time, and that's what I did in my report.
+Writing my report in this format has helped me understand more about software engineering and open my eyes to more than just the programming side of the project. I have learnt to consider the deadlines that may be emposed on me when creating software and documentation through the Gantt diagram and adheering to the requirements of this report. It is important that you must take steps to ensure your project is completed on time, and that is what I did in my report. I went through each part of my report methodicly, doing the tasks that would take the most time first like the Work Breakdown Structure and Gantt chart, I then moved onto my introduction and background section. Doing it this way also helped my write the other parts of my report because I understood what I was supposed to be writing about, and the experince to write about it. 
 
-There is a very clear difference between reports in college and university. When writing this report, I spent a lot more time researching than I have for college reports of similar size. This is most likely because reports in college didn't need to cover such a wide range of topcis as this report did, therefore I didn't need to do too much research. As university requires a vast knowledge base, I found myself on a variety of webpages reading through a lot of articles to find information that could prove useful. I also feel that I need to take more ownership in what I have written and spend more time reading my sources than I would have otherwise. This is because I need to be more involved with my work, and show exactly what I can do. 
+There is a very clear difference between reports in college and university. When writing this report, I spent a lot more time researching than I have for college reports of similar size. This is most likely because reports in college did not need to cover such a wide range of topcis as this report did, therefore I did not need to do too much research. As university requires a vast knowledge base, I found myself on a variety of webpages reading through a lot of articles to find information that could prove useful. I also feel that I need to take more ownership in what I have written and spend more time reading my sources than I would have otherwise. This is because I need to be more involved with my work and show exactly what I can do. 
 
 Overall, I would say that me report went well, however, I think it could have gone smoother if I did additional planning before I started my report. I was too eegar to start and did not do much planning, which I think, untimatly ended uo in my struggling. Next time, I will take my time to plan what it is I am going to say and how. This will allow me to work more efficiently and produce better quality work which flows much nicer. An aspect that I think went well was my ability to grasp the markdown mermaid syntax to produce my flowchart and gantt chart. I found it very easy to follow and was very excited to try to impliment it into my work.
 
