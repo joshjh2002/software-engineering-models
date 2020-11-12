@@ -7,7 +7,7 @@ Student Number: 29012845
 
 Date: 12/11/2002
 
-Actual hrs spent for the assignment: 15
+Actual hrs spent for the assignment: 16
 
 Assignment evaluation (3 key points): 
 * I learnt how to use markdown syntax to produce various types of graphs
