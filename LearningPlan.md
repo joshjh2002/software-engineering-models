@@ -62,42 +62,70 @@ y2_ --> y1_
 
 y1_[Year 1]
 cs1ac16[Applications of Computer Science]
+cs1ac16_[Artifical Intellegnce, Robotics, Artificial Life, Virtual Reality, Computer Vision, Data Analysis]
 cs1fc16[Fundamentals of Computer Science]
+cs1fc16_[Information Representation, Data Manipulation, Operating Systems, Networks, Information Security, Data Structure, Algorithms, Programming Lnaguages]
 cs1ma20[Mathematics and Computation]
+cs1ma20_[Algebra, Matrices, Probability, Complex Numbers, Discrete Mathematics]
 cs1pc20[Programming in C/C++]
+cs1pc20_[Structured Programming, Abstract Data Types, IO]
 cs1se20[Software Engineering CS1SE20]
+cs1se20_[Quality Drivers, Models, Process and Managment, Software Requirements, Testing, Maintenance, Construction]
 st1ps[Probability and Statistics]
+st1ps_[Views of Probability, Random Variables, Application of Probability, Sampling Distribution, Hypothesis Testing]
 
 subgraph Year 1
 y1_ --> cs1ac16
+cs1ac16 --> cs1ac16_
 y1_ --> cs1fc16
+cs1fc16 --> cs1fc16_
 y1_ --> cs1ma20
+cs1ma20 --> cs1ma20_
 y1_ --> cs1pc20
+cs1pc20 --> cs1pc20_
 y1_ --> cs1se20
+cs1se20 --> cs1se20_
 y1_ --> st1ps
+st1ps --> st1ps_
 end
 
 y2_[Year 2]
 
 cs2ao17[Algorithms and Operating Systems]
+cs2ao17_[Data Structures, Greedy Method, Dynamic Programming, Consolidation, OS, Structure, Concurrency, File System, Inter-process Communication, Scheduling, Memory Managment, Security Protection]
 cs2ac17[Computer Architecture and Networking]
+cs2ac17_[Computer Architecture, Networking, System Performance]
 cs2co16[Compilers]
+cs2co16_[Lexical Analysis, Regular Expression, Roles of Lexical Analysis and Parsing, Grammar and Parsing Methods, Parsing, Hashing, Code Generation and Optimisation]
 cs2di17[Databases and Information Security]
+cs2di17_[Basic Principles of Databases, Data storage, Information Security, Data Security]
 cs2ja16[Java]
-cs2ss20[Software System Design with UML]
+cs2ja16_[APIs, OOP, Exception Handling, IO, Networking, GUI]
+cs2sd20[System Design]
+cs2sd20_[OO Design, UML Design, UML Techniques]
 cs2nn16[Neural Networks]
+cs2nn16_[Neural Network Techniques]
 cs2sq17[Software Quality and Testing]
+cs2sq17_[Introduction to Requirements, Fundamantal Processes, Testing]
 cs2iy16[Industrial Year]
 
 subgraph Year 2
 y2_ --> cs2ao17
+cs2ao17 --> cs2ao17_
 y2_ --> cs2ac17
+cs2ac17 --> cs2ac17_
 y2_ --> cs2co16
+cs2co16 --> cs2co16_
 y2_ --> cs2di17
+cs2di17--> cs2di17_
 y2_ --> cs2ja16
-y2_ --> cs2ss20
+cs2ja16 --> cs2ja16_
+y2_ --> cs2sd20
+cs2sd20 --> cs2sd20_
 y2_ --> cs2nn16
+cs2nn16 --> cs2nn16_
 y2_ --> cs2sq17
+cs2sq17 --> cs2sq17_
 y2_ --> cs2iy16
 end
 
@@ -105,22 +133,34 @@ y3_[Year 3]
 
 cs3ip16[Individual Project]
 cs3sc17[Social, Legal and Ethical Aspects of Computing]
+cs3sc17_[Social, Legal and Ethical issues around Computer Science]
 cs3ai18[Artificial Intelligence]
+cs3ai18_[Goals of AI, Searching, Constraint Satisfaction, Game Trees, Markov Decision Process, Reinforcement Learning, Bayes' Nets, Decision Networks, Deep Learning]
 cs3vr16[Virtual Reality]
 cs3cn16[Computer Networking]
+cs3cn16_[Protocols, Core Internet Applications, Building Networks]
 cs3ia16[Image Analysis]
+cs3ia16_[Digital Image Fundamentals, Image Enchancing, Colour Processing, Mathematical Morphology, Image Compression, Image Segmentation]
 cs3dm16[Data Mining]
+cs3dm16_[Data processing, Proximity Measures, Regression, Classification and Model Evaluation, Clustering, Decision Trees, Association Rule Mining, Data Workflow Managment]
 cs3is16[Information Security]
+cs3is16_[Network Security, Data Security, Overview]
 
 subgraph Year 3
 y3_ --> cs3ip16
 y3_ --> cs3sc17
+cs3sc17 --> cs3sc17_
 y3_ --> cs3ai18
+cs3ai18 --> cs3ai18_
 y3_ --> cs3vr16
 y3_ --> cs3cn16
+cs3cn16 --> cs3cn16_
 y3_ --> cs3ia16
+cs3ia16 --> cs3ia16_
 y3_ --> cs3dm16
+cs3dm16 --> cs3dm16_
 y3_ --> cs3is16
+cs3is16 --> cs3is16_
 end
 ```
 
